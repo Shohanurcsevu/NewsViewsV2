@@ -8,4 +8,7 @@
     <string name="welcome">Welcome to NewsViews</string>
     <string name="todo1">TODO</string>
     <string name="notlogin">Failed to log in</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
