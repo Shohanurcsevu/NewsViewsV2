@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsViews</string>
+    <string name="md_shohanur_rahman">MD Shohanur Rahman</string>
+    <string name="andorid_developper">Andorid Developper</string>
+    <string name="todo">TODO</string>
+    <string name="email">E-mail: shohanurvu@gmail.com</string>
+    <string name="phone">Phone:+8801701011777</string>
+    <string name="welcome">Welcome to NewsViews</string>
+    <string name="todo1">TODO</string>
+    <string name="notlogin">Failed to log in</string>
+</resources>
