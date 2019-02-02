@@ -7,6 +7,8 @@ import com.google.gson.annotations.SerializedName;
 
 public class Article {
 
+
+
     @SerializedName("source")
     @Expose
     private Source  source;
@@ -79,4 +81,6 @@ public class Article {
     public void setPublishedAt(String publishedAt) {
         this.publishedAt = publishedAt;
     }
+
+
 }
