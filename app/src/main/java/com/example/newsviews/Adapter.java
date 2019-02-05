@@ -79,9 +79,10 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
                 .transition(DrawableTransitionOptions.withCrossFade())
                 .into(holder.imageView);
 
+
         holder.desc.setText(model.getDescription());
         holder.source.setText(model.getSource().getName());
-        holder.time.setText(" \u2022" +Utils.DateFormat(model.getPublishedAt()));
+        holder.time.setText("\u2022" +Utils.DateFormat(model.getPublishedAt()));
         holder.publishedat.setText(Utils.DateFormat(model.getPublishedAt()));
         holder.author.setText(model.getAuthor());
 
